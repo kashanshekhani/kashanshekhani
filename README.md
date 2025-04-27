@@ -1,8 +1,8 @@
 ## Hi, I'm Muhammad Kashan Shekhani​ 👨‍💻
 
 🎓 Computer Science Student</br>
-🎨 6+ Years of Experience in Social Media Marketing & Designing</br>
 💻 Passionate about coding, UI/UX design, and software development</br>
+🎨 6+ Years of Experience in Social Media Marketing & Designing</br>
 📚 Constantly learning new technologies and improving my skills</br>
 🔗 Connect with me for collabs, discussions, and tech content</br>
 
